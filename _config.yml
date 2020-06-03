@@ -1,12 +1,14 @@
 # Build settings
-gems:
+plugins:
   - jemoji
   - jekyll-paginate
+  
+encoding: utf-8
 
 # Site settings
-title: "Mediator"
+title: "空灵狂想曲"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   从前种种，譬如昨日死；从后种种，譬如今日生。
 
 email: a-mail@mail.mail
 #blog logo
